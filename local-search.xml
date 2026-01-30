@@ -14,7 +14,11 @@
     
     <tags>
       
-      <tag>学习，课程，图形学</tag>
+      <tag>学习</tag>
+      
+      <tag>课程</tag>
+      
+      <tag>图形学</tag>
       
       <tag>作业</tag>
       
@@ -25,7 +29,7 @@
   
   
   <entry>
-    <title>Hello World</title>
+    <title>hexo-start</title>
     <link href="/2026/01/30/2026/hexo-start/"/>
     <url>/2026/01/30/2026/hexo-start/</url>
     
@@ -38,7 +42,7 @@
   
   
   <entry>
-    <title>我的第一篇博客</title>
+    <title>Hello</title>
     <link href="/2026/01/30/2026/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
     <url>/2026/01/30/2026/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
     
@@ -50,7 +54,7 @@
       
       <tag>生活</tag>
       
-      <tag>记录</tag>
+      <tag>工作</tag>
       
     </tags>
     
